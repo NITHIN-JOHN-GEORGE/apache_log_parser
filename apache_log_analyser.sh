@@ -4,6 +4,8 @@ Log_File=access.log
 
 # In realtime give the complete path for access.log
 
+# AUTHOR : NITHIN JOHN GEORGE
+
 print_header()
 {
 printf "\n"
